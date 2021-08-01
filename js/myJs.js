@@ -16,7 +16,7 @@ function firstQuestion(){
     Swal.fire({
         title: 'He luu cậu!Mình là Tuấn Anh',
         text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa. <3',
-        imageUrl: 'img/cuteCat.jpg',
+        imageUrl: 'https://www.facebook.com/photo?fbid=3006202166266613&set=a.1374908109396035',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
